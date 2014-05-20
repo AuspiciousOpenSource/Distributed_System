@@ -1,0 +1,9 @@
+Links:-
+
+http://en.wikipedia.org/wiki/Distributed_computing
+PRoject list :- http://en.wikipedia.org/wiki/List_of_distributed_computing_projects
+http://en.wikipedia.org/wiki/ABC@home, http://abcathome.com/
+
+****http://boinc.berkeley.edu/projects.php*****
+
+Read Flops its (Floating point opertaion per seconds.)
